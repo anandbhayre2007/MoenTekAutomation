@@ -34,6 +34,12 @@ public class CallDetailsValidation {
 		
 	}
 	
+	@Test
+	public void login()
+	{
+		System.out.println("Welcome to login page");
+	}
+	
 	
 
 
